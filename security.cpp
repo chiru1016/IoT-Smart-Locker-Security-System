@@ -11,7 +11,7 @@
 
 // WiFi details
 char ssid[] = "YOUR_WIFI_NAME";  //you wifi name
-char pass[] = "YOUR_WIFI_PASSWORD";
+char pass[] = "YOUR_WIFI_PASSWORD";  // your wifi password
 
 // Gmail SMTP details
 #define SMTP_HOST "smtp.gmail.com"

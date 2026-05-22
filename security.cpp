@@ -10,7 +10,7 @@
 #include <ESP32Servo.h>
 
 // WiFi details
-char ssid[] = "YOUR_WIFI_NAME";
+char ssid[] = "YOUR_WIFI_NAME";  //you wifi name
 char pass[] = "YOUR_WIFI_PASSWORD";
 
 // Gmail SMTP details

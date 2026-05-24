@@ -1,0 +1,9 @@
+{
+  "smart_locker": {
+    "entered_password": "",
+    "command": "",
+    "status": "Locker Locked",
+    "attempts": 0,
+    "movement": "No Movement"
+  }
+}
